@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araba Yarışı", "Araba Yarışı.csproj", "{72E152B7-E67D-4D77-8BD3-F4B7FC72992F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesap Makinası", "..\Hesap Makinası\Hesap Makinası.csproj", "{86607687-4A76-4F39-94E2-FB465C129461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E152B7-E67D-4D77-8BD3-F4B7FC72992F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E152B7-E67D-4D77-8BD3-F4B7FC72992F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E152B7-E67D-4D77-8BD3-F4B7FC72992F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E152B7-E67D-4D77-8BD3-F4B7FC72992F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86607687-4A76-4F39-94E2-FB465C129461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86607687-4A76-4F39-94E2-FB465C129461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86607687-4A76-4F39-94E2-FB465C129461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86607687-4A76-4F39-94E2-FB465C129461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {390BDB89-1511-4FED-BE0E-C69F4079FF23}
+	EndGlobalSection
+EndGlobal
